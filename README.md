@@ -4,6 +4,4 @@ making in-person classes hard or impossible to conduct. Given that Spock evolves
 in the future if another lockdown happens as it did in 2020. Because of this, it could be argued that working on Spock contributed to the good old "common good" here at St. Thomas.
 
 On the Spock application, I touched two distinct areas. The first was the development of the settings functionality. In this segment of the application I got
-experience working with a lot of the functions of Spring, Hibernate, and JSP on the frontend. The second area of the application that I worked on was the 
-attendance functionality. I worked with a team member on this feature to plan and develop it. This was a valuable experience because it showed how important
-communication is when two people are working on a system where changes on person makes may render the other person's code not functional.
+experience working with a lot of the functions of Spring, Hibernate, and JSP on the frontend. I also got to experience merging my code with code written by another student. This process resulted in problems, however they were definetly caused by a lack of communication. This was an important lesson that was carried forward into  future cycles The second area of the application that I worked on was the attendance functionality. I worked with a team member on this feature to plan and develop it. This was a valuable experience because it showed how important communication is when two people are working on a system where changes on person makes may render the other person's code not functional.
