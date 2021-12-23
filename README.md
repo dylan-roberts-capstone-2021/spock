@@ -1,7 +1,7 @@
 ## spock
 Spock is an application that allows professors to better organize online classes. This is especially important in a world where viruses are mutating and
 making in-person classes hard or impossible to conduct. Given that Spock evolves, it is very possible that Spock could be a very useful tool for professors
-in the future if another lockdown happens as it did in 2020. Because of this, itt could be argued that working on Spock contributed to the "common good" of
+in the future if another lockdown happens as it did in 2020. Because of this, it could be argued that working on Spock contributed to the good old "common good" of
 the community here at St. Thomas.
 
 On the Spock application, I touched two distinct areas. The first was the development of the settings functionality. In this segment of the application I got
